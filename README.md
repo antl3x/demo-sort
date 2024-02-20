@@ -39,3 +39,8 @@ To execute the tests, run the following command in the terminal at the root of t
 ```bash
 pnpm test
 ```
+
+# StackBlitz
+Try the function online using StackBlitz by clicking [here](https://stackblitz.com/~/github.com/antl3x/demo-sort).
+
+[https://stackblitz.com/~/github.com/antl3x/demo-sort](https://stackblitz.com/~/github.com/antl3x/demo-sort)
