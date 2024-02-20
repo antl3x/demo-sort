@@ -38,3 +38,4 @@ To execute the tests, run the following command in the terminal at the root of t
 
 ```bash
 pnpm test
+```
